@@ -1,38 +1,38 @@
-respondent_id,own_apparel,own_footwear,last_brand,intent_raw,intent,attitude_index,gender,social_hours,group3,group4,sneaker_Price,sneaker_Style & design,sneaker_Comfort & fit,sneaker_Brand image,sneaker_Influencer approval,apparel_Price,apparel_Style & design,apparel_Comfort & fit,apparel_Brand image,apparel_Influencer approval,Q12-14_1,Q12-14_2,Q12-14_3
-1,Yes,Yes,Nike,6.0,6.0,77.33333333333333,Man,5h or more,Footwear owner,Apparel + footwear,5.0,7.0,7.0,5.0,3.0,5,5,5,5,5,71.0,81.0,80.0
-2,Yes,Yes,Nike,0.0,,67.0,Man,5h or more,Footwear owner,Apparel + footwear,4.0,4.0,4.0,,4.0,7,5,3,5,5,67.0,67.0,67.0
-3,Yes,No,Asics,4.0,4.0,75.0,Woman,5h or more,Apparel only,Apparel only,5.0,7.0,7.0,4.0,2.0,5,7,7,4,2,80.0,70.0,75.0
-4,No,Yes,Adidas,4.0,4.0,50.0,Man,5h or more,Footwear owner,Footwear only,3.0,6.0,5.0,3.0,5.0,3,6,5,3,5,50.0,50.0,50.0
-5,Yes,No,Nike,2.0,2.0,39.333333333333336,Man,3-4h,Apparel only,Apparel only,7.0,7.0,7.0,7.0,7.0,7,7,4,7,7,42.0,35.0,41.0
-6,Yes,Yes,Nike,4.0,4.0,66.33333333333333,Man,3-4h,Footwear owner,Apparel + footwear,5.0,5.0,5.0,4.0,5.0,4,5,5,5,5,63.0,65.0,71.0
-7,Yes,Yes,Asics,3.0,3.0,67.66666666666667,Man,5h or more,Footwear owner,Apparel + footwear,4.0,7.0,7.0,4.0,4.0,4,7,7,4,7,69.0,67.0,67.0
-8,No,No,Nike,1.0,1.0,,Man,3-4h,Neither,Neither,6.0,7.0,5.0,5.0,4.0,6,7,5,5,4,,,
-9,No,No,Nike,0.0,,,Man,5h or more,Neither,Neither,4.0,5.0,5.0,5.0,5.0,4,5,5,5,5,0.0,,
-10,No,No,Others,0.0,,29.666666666666668,Man,5h or more,Neither,Neither,5.0,7.0,7.0,5.0,7.0,7,7,7,5,1,30.0,30.0,29.0
-11,Yes,Yes,Adidas,4.0,4.0,45.666666666666664,Man,3-4h,Footwear owner,Apparel + footwear,4.0,6.0,5.0,4.0,4.0,4,4,4,4,4,46.0,43.0,48.0
-12,Yes,Yes,Puma,5.0,5.0,77.33333333333333,Man,5h or more,Footwear owner,Apparel + footwear,7.0,7.0,4.0,7.0,2.0,6,6,5,4,3,94.0,60.0,78.0
-13,Yes,No,Puma,6.0,6.0,80.66666666666667,Man,3-4h,Apparel only,Apparel only,6.0,5.0,6.0,6.0,7.0,6,6,5,5,6,80.0,87.0,75.0
-14,No,Yes,Asics,2.0,2.0,50.0,Man,3-4h,Footwear owner,Footwear only,7.0,4.0,7.0,2.0,1.0,7,4,7,2,1,50.0,50.0,50.0
-15,No,No,Nike,1.0,1.0,28.333333333333332,Man,5h or more,Neither,Neither,6.0,7.0,4.0,4.0,1.0,7,7,4,2,1,12.0,30.0,43.0
-16,Yes,Yes,Puma,6.0,6.0,59.666666666666664,Woman,3-4h,Footwear owner,Apparel + footwear,5.0,6.0,7.0,5.0,7.0,5,7,7,4,6,59.0,40.0,80.0
-17,Yes,Yes,Nike,4.0,4.0,65.0,Woman,1-2h,Footwear owner,Apparel + footwear,4.0,5.0,5.0,5.0,5.0,4,5,4,5,4,56.0,83.0,56.0
-18,Yes,Yes,Nike,5.0,5.0,75.66666666666667,Man,5h or more,Footwear owner,Apparel + footwear,5.0,7.0,6.0,5.0,5.0,6,6,6,6,5,74.0,76.0,77.0
-19,No,Yes,Puma,6.0,6.0,81.0,Man,1-2h,Footwear owner,Footwear only,3.0,5.0,7.0,4.0,3.0,3,5,7,4,3,77.0,75.0,91.0
-20,No,Yes,Adidas,5.0,5.0,83.33333333333333,Woman,5h or more,Footwear owner,Footwear only,4.0,5.0,4.0,4.0,5.0,4,6,5,5,4,90.0,80.0,80.0
-21,Yes,Yes,Nike,5.0,5.0,72.33333333333333,Man,5h or more,Footwear owner,Apparel + footwear,4.0,7.0,6.0,2.0,5.0,5,6,6,3,5,57.0,71.0,89.0
-22,Yes,Yes,Adidas,3.0,3.0,86.33333333333333,Non-binary,3-4h,Footwear owner,Apparel + footwear,5.0,5.0,5.0,5.0,6.0,4,3,5,3,2,74.0,96.0,89.0
-23,No,Yes,Nike,4.0,4.0,56.666666666666664,Man,3-4h,Footwear owner,Footwear only,6.0,6.0,5.0,5.0,1.0,6,6,5,5,1,75.0,60.0,35.0
-24,Yes,Yes,Nike,5.0,5.0,77.0,Man,3-4h,Footwear owner,Apparel + footwear,5.0,5.0,7.0,5.0,6.0,5,5,6,5,6,78.0,77.0,76.0
-25,Yes,Yes,Nike,5.0,5.0,67.33333333333333,Man,3-4h,Footwear owner,Apparel + footwear,4.0,5.0,5.0,5.0,4.0,5,4,5,5,4,54.0,68.0,80.0
-26,Yes,Yes,Nike,4.0,4.0,58.0,Man,1-2h,Footwear owner,Apparel + footwear,4.0,4.0,4.0,4.0,4.0,5,5,7,5,3,62.0,60.0,52.0
-27,No,Yes,Adidas,6.0,6.0,76.66666666666667,Woman,3-4h,Footwear owner,Footwear only,3.0,6.0,4.0,3.0,2.0,3,6,4,3,2,80.0,70.0,80.0
-28,Yes,Yes,Nike,5.0,5.0,62.0,Man,3-4h,Footwear owner,Apparel + footwear,5.0,5.0,4.0,5.0,5.0,5,3,3,3,4,60.0,69.0,57.0
-29,No,No,,2.0,2.0,38.0,Woman,1-2h,Neither,Neither,5.0,5.0,7.0,1.0,1.0,7,5,7,1,1,36.0,36.0,42.0
-30,No,No,Others,4.0,4.0,62.0,Man,3-4h,Neither,Neither,5.0,5.0,5.0,4.0,3.0,5,5,5,4,3,72.0,55.0,59.0
-31,Yes,Yes,Adidas,2.0,2.0,76.66666666666667,Man,3-4h,Footwear owner,Apparel + footwear,5.0,7.0,4.0,3.0,2.0,,,,,,79.0,81.0,70.0
-32,Yes,Yes,Adidas,5.0,5.0,60.0,Woman,5h or more,Footwear owner,Apparel + footwear,5.0,5.0,5.0,6.0,5.0,4,4,3,6,5,70.0,50.0,60.0
-33,Yes,Yes,Adidas,5.0,5.0,75.0,Man,5h or more,Footwear owner,Apparel + footwear,6.0,7.0,5.0,6.0,6.0,7,5,5,6,5,77.0,85.0,63.0
-34,Yes,Yes,Nike,0.0,,73.33333333333333,Woman,5h or more,Footwear owner,Apparel + footwear,7.0,7.0,7.0,6.0,1.0,7,7,7,6,1,59.0,81.0,80.0
-35,No,Yes,Asics,2.0,2.0,53.666666666666664,Man,5h or more,Footwear owner,Footwear only,6.0,6.0,6.0,5.0,5.0,6,6,6,5,5,60.0,60.0,41.0
-36,Yes,No,Adidas,3.0,3.0,91.66666666666667,Man,3-4h,Apparel only,Apparel only,7.0,7.0,7.0,7.0,7.0,7,7,7,7,7,90.0,85.0,100.0
-37,Yes,Yes,Asics,5.0,5.0,68.33333333333333,Woman,3-4h,Footwear owner,Apparel + footwear,6.0,4.0,7.0,5.0,4.0,7,5,7,5,4,68.0,68.0,69.0
+respondent_id,own_apparel,own_footwear,last_brand,intent_raw,intent,attitude_index,gender,social_hours,group3,group4,sneaker_Price,sneaker_Style & design,sneaker_Comfort & fit,sneaker_Brand image,sneaker_Influencer approval,repeat_Price,repeat_Style & design,repeat_Comfort & fit,repeat_Brand image,repeat_Influencer approval,Q12-14_1,Q12-14_2,Q12-14_3
+1,Yes,Yes,Nike,6,6,77.33333333333333,Man,5h or more,Footwear owner,Apparel + footwear,5,7,7,5,3,5,5,5,5,5,71,81,80
+2,Yes,Yes,Nike,0,,67.0,Man,5h or more,Footwear owner,Apparel + footwear,4,4,4,,4,7,5,3,5,5,67,67,67
+3,Yes,No,Asics,4,4,75.0,Woman,5h or more,Apparel only,Apparel only,5,7,7,4,2,5,7,7,4,2,80,70,75
+4,No,Yes,Adidas,4,4,50.0,Man,5h or more,Footwear owner,Footwear only,3,6,5,3,5,3,6,5,3,5,50,50,50
+5,Yes,No,Nike,2,2,39.333333333333336,Man,3-4h,Apparel only,Apparel only,7,7,7,7,7,7,7,4,7,7,42,35,41
+6,Yes,Yes,Nike,4,4,66.33333333333333,Man,3-4h,Footwear owner,Apparel + footwear,5,5,5,4,5,4,5,5,5,5,63,65,71
+7,Yes,Yes,Asics,3,3,67.66666666666667,Man,5h or more,Footwear owner,Apparel + footwear,4,7,7,4,4,4,7,7,4,7,69,67,67
+8,No,No,Nike,1,1,,Man,3-4h,Neither,Neither,6,7,5,5,4,6,7,5,5,4,,,
+9,No,No,Nike,0,,,Man,5h or more,Neither,Neither,4,5,5,5,5,4,5,5,5,5,0,,
+10,No,No,Others,0,,29.666666666666668,Man,5h or more,Neither,Neither,5,7,7,5,7,7,7,7,5,1,30,30,29
+11,Yes,Yes,Adidas,4,4,45.666666666666664,Man,3-4h,Footwear owner,Apparel + footwear,4,6,5,4,4,4,4,4,4,4,46,43,48
+12,Yes,Yes,Puma,5,5,77.33333333333333,Man,5h or more,Footwear owner,Apparel + footwear,7,7,4,7,2,6,6,5,4,3,94,60,78
+13,Yes,No,Puma,6,6,80.66666666666667,Man,3-4h,Apparel only,Apparel only,6,5,6,6,7,6,6,5,5,6,80,87,75
+14,No,Yes,Asics,2,2,50.0,Man,3-4h,Footwear owner,Footwear only,7,4,7,2,1,7,4,7,2,1,50,50,50
+15,No,No,Nike,1,1,28.333333333333332,Man,5h or more,Neither,Neither,6,7,4,4,1,7,7,4,2,1,12,30,43
+16,Yes,Yes,Puma,6,6,59.666666666666664,Woman,3-4h,Footwear owner,Apparel + footwear,5,6,7,5,7,5,7,7,4,6,59,40,80
+17,Yes,Yes,Nike,4,4,65.0,Woman,1-2h,Footwear owner,Apparel + footwear,4,5,5,5,5,4,5,4,5,4,56,83,56
+18,Yes,Yes,Nike,5,5,75.66666666666667,Man,5h or more,Footwear owner,Apparel + footwear,5,7,6,5,5,6,6,6,6,5,74,76,77
+19,No,Yes,Puma,6,6,81.0,Man,1-2h,Footwear owner,Footwear only,3,5,7,4,3,3,5,7,4,3,77,75,91
+20,No,Yes,Adidas,5,5,83.33333333333333,Woman,5h or more,Footwear owner,Footwear only,4,5,4,4,5,4,6,5,5,4,90,80,80
+21,Yes,Yes,Nike,5,5,72.33333333333333,Man,5h or more,Footwear owner,Apparel + footwear,4,7,6,2,5,5,6,6,3,5,57,71,89
+22,Yes,Yes,Adidas,3,3,86.33333333333333,Non-binary,3-4h,Footwear owner,Apparel + footwear,5,5,5,5,6,4,3,5,3,2,74,96,89
+23,No,Yes,Nike,4,4,56.666666666666664,Man,3-4h,Footwear owner,Footwear only,6,6,5,5,1,6,6,5,5,1,75,60,35
+24,Yes,Yes,Nike,5,5,77.0,Man,3-4h,Footwear owner,Apparel + footwear,5,5,7,5,6,5,5,6,5,6,78,77,76
+25,Yes,Yes,Nike,5,5,67.33333333333333,Man,3-4h,Footwear owner,Apparel + footwear,4,5,5,5,4,5,4,5,5,4,54,68,80
+26,Yes,Yes,Nike,4,4,58.0,Man,1-2h,Footwear owner,Apparel + footwear,4,4,4,4,4,5,5,7,5,3,62,60,52
+27,No,Yes,Adidas,6,6,76.66666666666667,Woman,3-4h,Footwear owner,Footwear only,3,6,4,3,2,3,6,4,3,2,80,70,80
+28,Yes,Yes,Nike,5,5,62.0,Man,3-4h,Footwear owner,Apparel + footwear,5,5,4,5,5,5,3,3,3,4,60,69,57
+29,No,No,,2,2,38.0,Woman,1-2h,Neither,Neither,5,5,7,1,1,7,5,7,1,1,36,36,42
+30,No,No,Others,4,4,62.0,Man,3-4h,Neither,Neither,5,5,5,4,3,5,5,5,4,3,72,55,59
+31,Yes,Yes,Adidas,2,2,76.66666666666667,Man,3-4h,Footwear owner,Apparel + footwear,5,7,4,3,2,,,,,,79,81,70
+32,Yes,Yes,Adidas,5,5,60.0,Woman,5h or more,Footwear owner,Apparel + footwear,5,5,5,6,5,4,4,3,6,5,70,50,60
+33,Yes,Yes,Adidas,5,5,75.0,Man,5h or more,Footwear owner,Apparel + footwear,6,7,5,6,6,7,5,5,6,5,77,85,63
+34,Yes,Yes,Nike,0,,73.33333333333333,Woman,5h or more,Footwear owner,Apparel + footwear,7,7,7,6,1,7,7,7,6,1,59,81,80
+35,No,Yes,Asics,2,2,53.666666666666664,Man,5h or more,Footwear owner,Footwear only,6,6,6,5,5,6,6,6,5,5,60,60,41
+36,Yes,No,Adidas,3,3,91.66666666666667,Man,3-4h,Apparel only,Apparel only,7,7,7,7,7,7,7,7,7,7,90,85,100
+37,Yes,Yes,Asics,5,5,68.33333333333333,Woman,3-4h,Footwear owner,Apparel + footwear,6,4,7,5,4,7,5,7,5,4,68,68,69
